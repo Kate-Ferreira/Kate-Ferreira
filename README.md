@@ -1,4 +1,4 @@
-<h2 align="left">Kate Ferreira<br><br>Sou desenvolvedora em formação com foco em Back-end, Análise de Dados e IA. Trabalho com Python, MySQL, Flask, Pandas, HTML e CSS, desenvolvendo projetos que integram banco de dados, back-end e front-end.<br><br>Tenho experiência em projetos de sistemas de controle e qualidade industrial, além de atuação em iniciativas educacionais com tecnologia. Busco me especializar em Python, IA e Computação Quântica, sempre focada em evolução contínua e em resolver problemas reais com tecnologia.</h2>
+<h4 align="left">Kate Ferreira<br><br>Sou desenvolvedora em formação com foco em Back-end, Análise de Dados e IA. Trabalho com Python, MySQL, Flask, Pandas, HTML e CSS, desenvolvendo projetos que integram banco de dados, back-end e front-end.<br><br>Tenho experiência em projetos de sistemas de controle e qualidade industrial, além de atuação em iniciativas educacionais com tecnologia. Busco me especializar em Python, IA e Computação Quântica, sempre focada em evolução contínua e em resolver problemas reais com tecnologia.</h4>
 
 ###
 
